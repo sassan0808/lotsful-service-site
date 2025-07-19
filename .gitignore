@@ -29,3 +29,7 @@ npm-debug.log*
 
 # Log files
 *.log
+
+# GitHub related (but keep workflows)
+.github/*
+!.github/workflows/
